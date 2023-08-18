@@ -98,6 +98,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                 },
                                 "activation_method": {
                                   "type": "keyword"
+                                },
+                                "span_type": {
+                                  "type": "keyword"
                                 }
                               }
                             },
@@ -154,6 +157,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                   "type": "keyword"
                                 },
                                 "activation_method": {
+                                  "type": "keyword"
+                                },
+                                "span_type": {
                                   "type": "keyword"
                                 }
                               }
@@ -212,6 +218,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                 },
                                 "activation_method": {
                                   "type": "keyword"
+                                },
+                                "span_type": {
+                                  "type": "keyword"
                                 }
                               }
                             },
@@ -268,6 +277,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                   "type": "keyword"
                                 },
                                 "activation_method": {
+                                  "type": "keyword"
+                                },
+                                "span_type": {
                                   "type": "keyword"
                                 }
                               }
@@ -326,6 +338,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                 },
                                 "activation_method": {
                                   "type": "keyword"
+                                },
+                                "span_type": {
+                                  "type": "keyword"
                                 }
                               }
                             },
@@ -382,6 +397,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                   "type": "keyword"
                                 },
                                 "activation_method": {
+                                  "type": "keyword"
+                                },
+                                "span_type": {
                                   "type": "keyword"
                                 }
                               }
@@ -440,6 +458,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                 },
                                 "activation_method": {
                                   "type": "keyword"
+                                },
+                                "span_type": {
+                                  "type": "keyword"
                                 }
                               }
                             },
@@ -496,6 +517,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                   "type": "keyword"
                                 },
                                 "activation_method": {
+                                  "type": "keyword"
+                                },
+                                "span_type": {
                                   "type": "keyword"
                                 }
                               }
@@ -554,6 +578,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                 },
                                 "activation_method": {
                                   "type": "keyword"
+                                },
+                                "span_type": {
+                                  "type": "keyword"
                                 }
                               }
                             },
@@ -611,6 +638,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                 },
                                 "activation_method": {
                                   "type": "keyword"
+                                },
+                                "span_type": {
+                                  "type": "keyword"
                                 }
                               }
                             },
@@ -667,6 +697,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                                   "type": "keyword"
                                 },
                                 "activation_method": {
+                                  "type": "keyword"
+                                },
+                                "span_type": {
                                   "type": "keyword"
                                 }
                               }
@@ -1233,6 +1266,9 @@ exports[`APM telemetry helpers getApmTelemetry generates a JSON object with the 
                               "type": "keyword"
                             },
                             "activation_method": {
+                              "type": "keyword"
+                            },
+                            "span_type": {
                               "type": "keyword"
                             }
                           }

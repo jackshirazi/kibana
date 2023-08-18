@@ -2790,6 +2790,12 @@
                       "items": {
                         "type": "keyword"
                       }
+                    },
+                    "span_type": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
                     }
                   }
                 },
@@ -2876,6 +2882,12 @@
                       }
                     },
                     "activation_method": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
+                    },
+                    "span_type": {
                       "type": "array",
                       "items": {
                         "type": "keyword"
@@ -2970,6 +2982,12 @@
                       "items": {
                         "type": "keyword"
                       }
+                    },
+                    "span_type": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
                     }
                   }
                 },
@@ -3056,6 +3074,12 @@
                       }
                     },
                     "activation_method": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
+                    },
+                    "span_type": {
                       "type": "array",
                       "items": {
                         "type": "keyword"
@@ -3150,6 +3174,12 @@
                       "items": {
                         "type": "keyword"
                       }
+                    },
+                    "span_type": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
                     }
                   }
                 },
@@ -3236,6 +3266,12 @@
                       }
                     },
                     "activation_method": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
+                    },
+                    "span_type": {
                       "type": "array",
                       "items": {
                         "type": "keyword"
@@ -3330,6 +3366,12 @@
                       "items": {
                         "type": "keyword"
                       }
+                    },
+                    "span_type": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
                     }
                   }
                 },
@@ -3416,6 +3458,12 @@
                       }
                     },
                     "activation_method": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
+                    },
+                    "span_type": {
                       "type": "array",
                       "items": {
                         "type": "keyword"
@@ -3510,6 +3558,12 @@
                       "items": {
                         "type": "keyword"
                       }
+                    },
+                    "span_type": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
                     }
                   }
                 },
@@ -3600,6 +3654,12 @@
                       "items": {
                         "type": "keyword"
                       }
+                    },
+                    "span_type": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
                     }
                   }
                 },
@@ -3686,6 +3746,12 @@
                       }
                     },
                     "activation_method": {
+                      "type": "array",
+                      "items": {
+                        "type": "keyword"
+                      }
+                    },
+                    "span_type": {
                       "type": "array",
                       "items": {
                         "type": "keyword"
@@ -4314,6 +4380,9 @@
                     "type": "keyword"
                   },
                   "activation_method": {
+                    "type": "keyword"
+                  },
+                  "span_type": {
                     "type": "keyword"
                   }
                 }

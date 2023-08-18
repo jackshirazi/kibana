@@ -43,6 +43,7 @@ const agentSchema: MakeSchemaFrom<APMUsage>['agents'][ElasticAgentName] = {
   agent: {
     version: { type: 'array', items: { type: 'keyword' } },
     activation_method: { type: 'array', items: { type: 'keyword' } },
+    span_type: { type: 'array', items: { type: 'keyword' } },
   },
   service: {
     framework: {
@@ -137,6 +138,7 @@ export const apmPerServiceSchema: MakeSchemaFrom<APMPerService> = {
     name: keyword,
     version: keyword,
     activation_method: keyword,
+    span_type: keyword,
   },
   service: {
     language: {
